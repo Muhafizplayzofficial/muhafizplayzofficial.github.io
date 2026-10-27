@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /muhafiz-playz/admin.html
+
+Sitemap: https://muhafizplayzofficial.github.io/muhafiz-playz/sitemap.xml
